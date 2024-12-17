@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, data, data-r2dbc, discovery-kubernetes, github-workflow-ci, gradle, http-client-test, junit, kapt, kotlin, kotlin-application, kotlin-extension-functions, micronaut-aop, micronaut-aot, micronaut-build, micronaut-http-validation, mockito, netty-server, openapi, postgres, properties, r2dbc, readme, serialization-jackson, shade, slf4j-simple-logger, spring, spring-boot, static-resources, swagger-ui, test-resources]
