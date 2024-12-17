@@ -1,3 +1,6 @@
+# m0
+Micronaut test project to showcase REST API and containerization
+
 ## Micronaut 4.7.2 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.7.2/guide/index.html)
