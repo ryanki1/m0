@@ -35,7 +35,6 @@ dependencies {
     compileOnly("io.micronaut:micronaut-http-client")
     compileOnly("io.micronaut.openapi:micronaut-openapi-annotations")
     runtimeOnly("com.fasterxml.jackson.module:jackson-module-kotlin")
-    runtimeOnly("io.goodforgod:slf4j-simple-logger:2.0.0")
     runtimeOnly("io.micronaut.spring:micronaut-spring-boot")
     runtimeOnly("org.postgresql:r2dbc-postgresql")
     kaptTest("io.micronaut.spring:micronaut-spring-boot-annotation")
